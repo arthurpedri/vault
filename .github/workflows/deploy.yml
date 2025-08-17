@@ -1,6 +1,9 @@
 name: Deploy Quartz site to GitHub Pages
  
 on:
+  schedule:
+    - cron: "0 0 * * *" # once per day
+  workflow_dispatch:
   push:
     branches:
       - v4
