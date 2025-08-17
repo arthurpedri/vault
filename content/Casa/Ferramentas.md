@@ -1,0 +1,2 @@
+- Silicone para soldar sem afetar o que está abaixo.
+- Fio com capa de silicone.
