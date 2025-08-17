@@ -1,1 +1,0 @@
-- Air fryers are convection ovens with a stronger wind, making the water leave the food faster, affecting the crispiness of the food.

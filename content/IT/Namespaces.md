@@ -1,1 +1,0 @@
-A **namespace** is a set of signs (_names_) that are used to identify and refer to objects of various kinds. A namespace ensures that all of a given set of objects have unique names so that they can be easily identified.

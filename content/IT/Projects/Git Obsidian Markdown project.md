@@ -1,1 +1,0 @@
-Project to display markdown files in git obsidian repo in a website

@@ -1,2 +1,0 @@
-- Function, type, or method signatures defines input and output of functions.
-- They can include: parameters, returns, exceptions, availability of the method (public, static, etc.).

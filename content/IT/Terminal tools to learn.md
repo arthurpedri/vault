@@ -1,1 +1,0 @@
-xargs, parallel, grep, find, sed, awk

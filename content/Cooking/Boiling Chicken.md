@@ -1,2 +1,0 @@
-- Chicken breast, salt and cold water in the pan before turning on the heat.
-- When the water boils, turn it to low and cook it for a long time.

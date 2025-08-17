@@ -1,1 +1,0 @@
-Features are the values that a supervised model uses to predict the [[ML Label|label]]

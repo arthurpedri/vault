@@ -1,1 +1,0 @@
-The label is the "answer," or the value we want the model to predict

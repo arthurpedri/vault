@@ -1,4 +1,0 @@
-- Takes care of assigning and releasing resources (files, database connections, etc).
-- Prevents resource leaks.
-- Decreases vulnerability of data.
-- Prevents program slow-down.
